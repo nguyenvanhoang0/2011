@@ -1,0 +1,147 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+h2 {
+    color: blue;
+}
+h3 {
+	color: blue;
+
+}
+h4 {
+	color: blue;
+}
+
+.tong , .tren , .than , .trai , .phai {
+	width: 100%;
+
+}
+.than {
+	display: flex;
+	margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+}
+.trai {
+	width: 48%;
+}
+.phai {
+	margin-left: 3%;
+	width: 19%;
+}
+.a2{
+	display: flex;
+}
+.b1 {
+	width: 59%;
+}
+.b2 {
+	margin-left: 3%;
+	width: 38%;
+}
+.logo .d1 {
+	width: 100%;
+}
+.menu {
+	background-color: #3366CC	!important;
+}
+.menu ul li: {
+	list-style-type: none;
+	display: flex;
+	
+}
+	
+.a2 {
+	margin-top: 60px;
+}
+.
+
+.margin-left {
+	margin-left: 10% !important;
+}
+
+.margin-right {
+	margin-right: 10% !important;
+}
+ul li {
+	font-size: 20px;
+	color: white;
+}
+.a1 .d1 {
+	width: 100%;
+}
+.c1 .d1 {
+	width: 120%;
+}
+.a2 .b1 .d1 {
+	width: 100%;
+}
+.a2 .b2 .d1 {
+    width: 100%;
+}
+ul {
+	display: inline;
+	margin-right: 20%;
+}
+.e1 {
+	color: red;
+
+}
+li .e2 {
+	margin-top: 20px;
+}
+.c3 {
+	border: solid black 0.1px;
+}
+.c4 {
+	margin-top: 20px;
+	border: solid black 0.1px;
+}
+
+/*.menu ul li {
+	padding: 40px;
+}*/
+
+
+
+/*-----------------------*/
+.tren {
+	height: 150px;
+}
+.logo {
+    
+    height: 80px;
+
+}
+.menu {
+	background-color: #3366CC	!important;
+	height: 40px;
+}
+.a1 {
+	background-color: orange;
+	height: 250px;
+}
+.a3 {
+	background-color: white;
+	height: 800px;
+}
+
+.b1 {
+	background-color: white;
+    height: 600px;
+}
+.b2 {
+	background-color: white;
+	height: 600px;
+}
+.c1 {
+
+	height: 260px;
+}
+.c2 {
+	margin-top: 80px;
+	background-color: white;
+	height: 850px;
+}
+
